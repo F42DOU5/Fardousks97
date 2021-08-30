@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fardousks97
+- 👋 Hi, I’m @fardousks97
 - 👀 I’m interested in learnng
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on learning ML learning
