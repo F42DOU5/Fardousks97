@@ -2,7 +2,7 @@
 - 👀 I’m interested in learnng
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on learning ML learning
-- 📫 How to reach me ...
+- 📫 How to reach me iamhasanalfardous@gmail.com
 
 <!---
 Fardousks97/Fardousks97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
