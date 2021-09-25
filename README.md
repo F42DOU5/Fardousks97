@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fardousks97
-- 👀 I’m interested in learnng
+- 👋 Hi, I’m @fardous khan
+- 👀 I’m interested in ML learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on learning ML learning
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me iamhasanalfardous@gmail.com
 
 <!---
