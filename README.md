@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fardous khan
 - 👀 I’m interested in ML learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Ruby
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me iamhasanalfardous@gmail.com
 
